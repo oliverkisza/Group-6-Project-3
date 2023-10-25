@@ -10,7 +10,7 @@ import json
 from flask import Flask, jsonify
 #################################################
 # import csv 
-df = pd.read_csv('project3edit/GlobalWeatherRepository_full_data.csv')
+df = pd.read_csv('GlobalWeatherRepository_full_data.csv')
 
 #################################################
 # Database Setup
