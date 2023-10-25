@@ -1,6 +1,7 @@
 # README
 ## Project 3 - Weather Visualization dashboard
 ### Team 6 - Oliver, Femi, Carlos, Darrick, Susan
+### To view our original repository (containing all files & complete change history, as well as the files in this repo (in the Project 3 (Final) folder), please visit https://github.com/femster6184/Data-Visualization-Project/tree/main )
 
 ### Project Overview/ Description
 
