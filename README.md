@@ -1,7 +1,7 @@
 # README
 ## Project 3 - Weather Visualization dashboard
 ### Team 6 - Oliver, Femi, Carlos, Darrick, Susan
-### To view our original repository (containing all files & complete change history, as well as the files in this repo (Project3edit folder), please visit https://github.com/femster6184/Data-Visualization-Project/tree/main )
+### To view our original repository (containing all files & complete change history, as well as the final files in this repo (project3edit folder), please visit https://github.com/femster6184/Data-Visualization-Project/tree/main )
 
 ### Project Overview/ Description
 
@@ -23,6 +23,10 @@ By answering these questions, we hope to improve our understanding of how these 
 ### Startup & Use
 
 Run app.py in order to start the flask server
+app routes:
+/extract
+/subclass
+/map
 
 Navigate the site using the buttons, dropdowns, and interactive visualizations
 
